@@ -1,3 +1,7 @@
+# Disclaimer
+
+En este repositorio se encuentra la tarea 1 del curso Redes Neuronales y Programación Genética, además de los ejercicios 1 al 4 realizados en clase.
+
 # Librerias a utilizar
 
 Las librerías que se utilizaron en la tarea son las siguientes:
